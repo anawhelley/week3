@@ -1,0 +1,116 @@
+.back {
+    position: relative;
+    width: 1280px;
+    height: 1368px;
+    background: #FFFFFF;
+}
+h1 {
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1300px;
+    line-height: 1696px;
+    color: #EFC967;
+    position: absolute;
+    width: 707px;
+    height: 1521px;
+    left: 286px;
+    top: -544px;
+    margin-top: 0%;
+}
+h2 {
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 570px;
+    line-height: 744px;
+    color: #000000;
+    position: absolute;
+    width: 566px;
+    height: 666px;
+    left: 325px;
+    top: 29px;
+    margin-top: 0%;
+}
+h3 {
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 125px;
+    color: #000000;
+    position: absolute;
+    width: 348px;
+    height: 111px;
+    left: 566px;
+    top: 336px;
+    margin-top: 0%;
+}
+h4 {
+    position: absolute;
+    width: 146px;
+    height: 48px;
+    left: 526px;
+    top: 343px;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 47px;
+    color: #EFC967;
+    margin-top: 0%;
+}
+#top {
+    position: absolute;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.04em;
+    color: #000000;
+    margin-top: 450px;
+    margin-left: 170px;
+    transform: rotate(-90deg);
+}
+#middle {
+    position: absolute;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.04em;
+    color: #000000;
+    margin-top: 615px;
+    margin-left: 275px;
+    transform: rotate(-90deg);
+}
+#bottom {
+    position: absolute;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.04em;
+    color: #000000;
+    margin-top: 730px;
+    margin-left: 405px;
+    transform: rotate(-90deg);
+}
+p {
+    position: absolute;
+    width: 207px;
+    height: 673px;
+    left: 730px;
+    top: 440px;
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: justify;
+    color: #000000;
+    margin-top: 0%;
+}
